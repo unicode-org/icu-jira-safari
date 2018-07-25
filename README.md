@@ -13,6 +13,8 @@ make `ICU-1234` linkified in Safari.
 5. verify the whitelist, or even the script. Are you sure you want to do this?
 6. click the Install button in the top left.
 
+![example from https://github.com/unicode-org/icu/commits/master](./jiralink.png)
+
 ### LICENSE
 
 - Copyright (C) 2016 and later: Unicode, Inc. and others.
